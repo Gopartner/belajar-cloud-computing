@@ -1,5 +1,9 @@
 # Belajar Cloud Computing
 
+Diagram arsitektur:
+
+![Diagram Cloud Computing](https://raw.githubusercontent.com/Gopartner/belajar-cloud-computing/refs/heads/Master/images/diagram.png)
+
 ---
 
 ## **1. Model Layanan Cloud (Service Models)**
