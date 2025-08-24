@@ -48,6 +48,7 @@ Biasanya terdiri dari:
 👉 Biasanya dipakai untuk aplikasi web/mobile.
 
 - [Integrasi OAuth 2.0 Google Login pada Web App dengan React + TypeScript + Firebase](Integrasi-OAuth-2.0-Google-Login.md)
+- [Integrasi OAuth 2.0 Google Login pada App Baru di Project Firebase yang Sudah Ada (React + TypeScript + Firebase)](App-baru.md)
 
 ### 🔹 Service Account
 
