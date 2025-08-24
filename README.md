@@ -66,6 +66,7 @@ Diagram arsitektur:
 
 - **IAM (Identity & Access Management)** → mengatur siapa dapat akses resource
 - **API Key / OAuth / Service Account** → akses aman dari aplikasi atau server
+- [Identity & Authentication](Identity%26Authentication.md)
 
 ---
 
