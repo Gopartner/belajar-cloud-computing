@@ -66,7 +66,7 @@ Diagram arsitektur:
 
 - **IAM (Identity & Access Management)** → mengatur siapa dapat akses resource
 - **API Key / OAuth / Service Account** → akses aman dari aplikasi atau server
-- [Identity & Authentication](Identity%26Authentication.md)
+- [Identity & Authentication](Lanjut:%Identity%26Authentication.md)
 
 ---
 
@@ -75,6 +75,7 @@ Diagram arsitektur:
 - **Monitoring** → Cloud Monitoring, Cloud Logging
 - **CI/CD Pipelines** → Cloud Build, GitHub Actions integration
 - **Error Reporting / Alerts** → notif kalau ada error di aplikasi
+- [Identity & Authentication](Lanjut:%Monitoring%26DevOps.md)
 
 ---
 
