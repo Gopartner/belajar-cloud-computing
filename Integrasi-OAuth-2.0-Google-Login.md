@@ -1,5 +1,3 @@
-**“Integrasi OAuth 2.0 Google Login pada Web App dengan React + TypeScript + Firebase”**
-
 # 🔑 Integrasi OAuth 2.0 Google Login pada Web App dengan React + TypeScript + Firebase
 
 ---
