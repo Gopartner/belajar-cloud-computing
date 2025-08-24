@@ -75,7 +75,7 @@ Diagram arsitektur:
 - **Monitoring** → Cloud Monitoring, Cloud Logging
 - **CI/CD Pipelines** → Cloud Build, GitHub Actions integration
 - **Error Reporting / Alerts** → notif kalau ada error di aplikasi
-- [Lanjut: Identity & Authentication](Monitoring%26DevOps.md)
+- [Lanjut: Monitoring & DevOps](Monitoring%26DevOps.md)
 
 ---
 
