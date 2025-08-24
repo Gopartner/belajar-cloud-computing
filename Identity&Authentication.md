@@ -47,6 +47,8 @@ Biasanya terdiri dari:
 
 👉 Biasanya dipakai untuk aplikasi web/mobile.
 
+- [Integrasi OAuth 2.0 Google Login pada Web App dengan React + TypeScript + Firebase](Integrasi-OAuth-2.0-Google-Login.md)
+
 ### 🔹 Service Account
 
 - Identitas khusus untuk **aplikasi atau server**, bukan user manusia.
